@@ -1,0 +1,6 @@
+---
+title: "Week10a"
+author: "Chunqi"
+date: "2023-11-28"
+output: html_document
+---
